@@ -1,0 +1,15 @@
+Package: com.gamevil.kritikam.ios.apple.global.normal
+Name: [PMT]Kritika: The White Knights - JB MOD
+Depends: mobilesubstrate
+Filename: debs/[PMT]Kritika_The_White_Knights_v4.7.3_JB-MOD_Platinmods.deb
+Size: 606764
+MD5sum: 9d2f9502ce47a3ba2c2ca8e459f19116
+Architecture: iphoneos-arm
+Description: [PMT] Kritika: The White Knights 4.7.3 - MOD by G-Bo @Platinmods.com
+Maintainer: G-Bo
+Author: G-Bo
+Section: Tweaks
+Homepage: https://platinmods.com
+Version: 4.7.3
+Installed-Size: 592
+

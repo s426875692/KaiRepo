@@ -1,8 +1,13 @@
-Origin: CYR580's Repo
-Label: CYR580's Repo
+Origin: Kai's repo
+Label: Kai
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: Kai
 Architectures: iphoneos-arm
 Components: main
-Description: CYR580's Repo
+Description: I'm your father
+MD5Sum:
+ 3f7cbbd1c1e8284a01cf97ded4237b8f 479 Packages
+ 1f8097ece4c8dfe75a8a120bd7480cda 375 Packages.bz2
+ 7a5d8efc32ffea6087de95d826119a17 344 Packages.gz
+
