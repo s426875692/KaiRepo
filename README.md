@@ -1,2 +1,2 @@
-# xigua team repo
-Collection of xigua's creations &amp; releases
+# Kai's repo
+I'm your father
