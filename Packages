@@ -151,6 +151,24 @@ Section: Tweaks
 Version: 0.0.2-1+debug
 Installed-Size: 236
 
+Package: com.twickd.abofaris77.soso78
+Name: soso78
+Architecture: iphoneos-arm
+Filename: debs/com.twickd.abofaris77.soso78_1.0_iphoneos-arm.deb
+Size: 88476644
+MD5sum: 515a8ec0794a6b7166a51b20ea52b973
+Author: abofaris77 <abl777788@gmail.com>
+Version: 1.0
+Conflicts: 
+Depends: 
+Depiction: https://repo.twickd.com/package/com.twickd.abofaris77.soso78
+Description: White balloon theme with colorful icons
+Homepage: 
+Maintainer: abofaris77 <abl777788@gmail.com>
+Section: Themes
+SileoDepiction: https://repo.twickd.com/package/com.twickd.abofaris77.soso78/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios14.3
+
 Package: com.yourepo.itweakios.carriercrack-global
 Name: CarrierCrack - Global
 Version: 3.1.19
