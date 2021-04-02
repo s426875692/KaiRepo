@@ -211,3 +211,21 @@ Section: Tweaks
 Version: 1.2.0
 Installed-Size: 1580
 
+Package: ru.rj.appstoreplusplus
+Name: AppStore++
+Version: 0.9.14-2
+Filename: debs/ru.rj.appstoreplusplus_0.9.14-2_iphoneos-arm.deb
+Size: 575940
+MD5sum: 74803bdf22f0b5beb88280b309eb08c8
+Description: Понижение версий приложений
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Installed-Size: 3757
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=appstoreplusplus
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=appstoreplusplus
+
