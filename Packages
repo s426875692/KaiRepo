@@ -61,6 +61,21 @@ Homepage: https://platinmods.com
 Version: 4.7.3
 Installed-Size: 592
 
+Package: com.hk.reprovisionreborn.cn
+Version: 0.6.2.1~release
+Priority: optional
+Filename: debs/com.hk.reprovisionreborn.cn_0.6.2.1~release_iphoneos-arm.deb
+Size: 14960820
+MD5sum: bf26aa14eb8aaaca183891596c215e8c
+Section: 嗨-工具
+Maintainer: Nets
+Depends: firmware (>= 9.0)
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Architecture: iphoneos-arm
+Name: ReProvision Reborn 汉化版
+Author: Soh Satoh, Matt Clarke
+
 Package: com.miro.libmiro
 Name: libMiRO
 Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
@@ -162,4 +177,19 @@ Author: Pwn20wnd <itweakios@yahoo.com>
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>=10.0)
 Maintainer: Pwn20wnd <itweakios@yahoo.com>
+
+Package: kr.xsf1re.flyjbx
+Name: FlyJB X
+Depends: mobilesubstrate
+Filename: debs/kr.xsf1re.flyjbx_1.2.0_iphoneos-arm.deb
+Size: 646772
+MD5sum: dd64f3be4df07ff72867cb3fcda58a62
+Conflicts: kr.xsf1re.flyjb
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Version: 1.2.0
+Installed-Size: 1580
 
