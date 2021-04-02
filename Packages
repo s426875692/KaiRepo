@@ -151,6 +151,42 @@ Section: Tweaks
 Version: 0.0.2-1+debug
 Installed-Size: 236
 
+Package: com.twickd.abofaris77.avw78
+Name: AVW78
+Architecture: iphoneos-arm
+Filename: debs/com.twickd.abofaris77.avw78_1.0_iphoneos-arm.deb
+Size: 32909472
+MD5sum: 70def7f4904389a0d2285f058f67ecdf
+Author: abofaris77 <abl777788@gmail.com>
+Version: 1.0
+Conflicts: 
+Depends: 
+Depiction: https://repo.twickd.com/package/com.twickd.abofaris77.avw78
+Description: Beautiful gray and beige theme
+Homepage: 
+Maintainer: abofaris77 <abl777788@gmail.com>
+Section: Themes
+SileoDepiction: https://repo.twickd.com/package/com.twickd.abofaris77.avw78/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios14.2
+
+Package: com.twickd.abofaris77.esr78
+Name: ESR78
+Architecture: iphoneos-arm
+Filename: debs/com.twickd.abofaris77.esr78_1.1_iphoneos-arm.deb
+Size: 41345244
+MD5sum: f7741ee766d315e7a38e93cad9458a4d
+Author: abofaris77 <abl777788@gmail.com>
+Version: 1.1
+Conflicts: 
+Depends: 
+Depiction: https://repo.twickd.com/package/com.twickd.abofaris77.esr78
+Description: Beautiful gray and beige theme
+Homepage: 
+Maintainer: abofaris77 <abl777788@gmail.com>
+Section: Themes
+SileoDepiction: https://repo.twickd.com/package/com.twickd.abofaris77.esr78/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios14.2
+
 Package: com.twickd.abofaris77.soso78
 Name: soso78
 Architecture: iphoneos-arm
@@ -168,6 +204,21 @@ Maintainer: abofaris77 <abl777788@gmail.com>
 Section: Themes
 SileoDepiction: https://repo.twickd.com/package/com.twickd.abofaris77.soso78/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios14.3
+
+Package: com.twickd.devy-design.liaca-sticker
+Name: Liaca Sticker
+Version: 1.9.6
+Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.6_iphoneos-arm.deb
+Size: 8890096
+MD5sum: b507c6de54bcedbcc32257ac65fa1064
+Architecture: iphoneos-arm
+Description: Your popular icon designs with a Great stickers style concept.
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Author: Devy_Design <idrainmax@gmail.com>
+Section: Themes
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.liaca-sticker
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.liaca-sticker/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
 
 Package: com.yourepo.itweakios.carriercrack-global
 Name: CarrierCrack - Global
