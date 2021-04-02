@@ -13,3 +13,56 @@ Homepage: https://platinmods.com
 Version: 4.7.3
 Installed-Size: 592
 
+Package: com.ps-vxbakerxv.joypixelsdecalsa
+Name: JoyPixels Decals
+Version: 1.0
+Filename: debs/com.ps-vxbakerxv.joypixelsdecalsa_1.0_iphoneos-arm.deb
+Size: 66199430
+MD5sum: 0570e58b30b6a719a2474c8ecbb2d346
+Architecture: iphoneos-arm
+Description: Anemone
+Maintainer: PoomSmart & vXBaKeRXv
+Author: PoomSmart & vXBaKeRXv
+Section: Fonts (Anemone)
+Depiction: http://vxbakerxv.github.io/repo/joypixelsdecalsa/index.html
+
+Package: com.sugi.flex3editpatches
+Name: Flex3 Edit Patches
+Architecture: iphoneos-arm
+Filename: debs/com.sugi.flex3editpatches_0.0.2-1+debug_iphoneos-arm.deb
+Size: 16516
+MD5sum: 82a63a200eba1bfb86ba9b708b36ee18
+Description: You can add units and edit downloaded patches.
+Maintainer: sugi
+Author: sugi
+Section: Tweaks
+Version: 0.0.2-1+debug
+Installed-Size: 236
+
+Package: com.yourepo.itweakios.carriercrack-global
+Name: CarrierCrack - Global
+Version: 3.1.19
+Filename: debs/com.yourepo.itweakios.carriercrack-global_3.1.19_iphoneos-arm.deb
+Size: 5523680
+MD5sum: 297c5c8965b133514f0edd462291d434
+Architecture: iphoneos-arm
+Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
+Author: iTweakiOS <itweakios@yahoo.com>
+Section: Tweaks
+Pre-Depends: firmware (>= 13)
+Depends: com.yourepo.itweakios.ccpatch10
+Maintainer: iTweakiOS <itweakios@yahoo.com.com>
+
+Package: com.yourepo.itweakios.ccpatch10
+Architecture: iphoneos-arm
+Name: CommCenter Patch
+Filename: debs/com.yourepo.itweakios.ccpatch10_4.0.1_iphoneos-arm.deb
+Size: 44268
+MD5sum: cc8ece14148240146221310d2ef9147a
+Version: 4.0.1
+Description: Carrier bundle verification bypass
+Author: Pwn20wnd <itweakios@yahoo.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=10.0)
+Maintainer: Pwn20wnd <itweakios@yahoo.com>
+
