@@ -39,30 +39,3 @@ Section: Tweaks
 Version: 0.0.2-1+debug
 Installed-Size: 236
 
-Package: com.yourepo.itweakios.carriercrack-global
-Name: CarrierCrack - Global
-Version: 3.1.19
-Filename: debs/com.yourepo.itweakios.carriercrack-global_3.1.19_iphoneos-arm.deb
-Size: 5523680
-MD5sum: 297c5c8965b133514f0edd462291d434
-Architecture: iphoneos-arm
-Description: Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!
-Author: iTweakiOS <itweakios@yahoo.com>
-Section: Tweaks
-Pre-Depends: firmware (>= 13)
-Depends: com.yourepo.itweakios.ccpatch10
-Maintainer: iTweakiOS <itweakios@yahoo.com.com>
-
-Package: com.yourepo.itweakios.ccpatch10
-Architecture: iphoneos-arm
-Name: CommCenter Patch
-Filename: debs/com.yourepo.itweakios.ccpatch10_4.0.1_iphoneos-arm.deb
-Size: 44268
-MD5sum: cc8ece14148240146221310d2ef9147a
-Version: 4.0.1
-Description: Carrier bundle verification bypass
-Author: Pwn20wnd <itweakios@yahoo.com>
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>=10.0)
-Maintainer: Pwn20wnd <itweakios@yahoo.com>
-
