@@ -110,6 +110,18 @@ Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
 Version: 3.0.1
 Installed-Size: 5520
 
+Package: com.moondr1.BluRay
+Name: BluRay
+Version: 1.1
+Filename: debs/com.moondr1.bluray_1.1_iphoneos-arm.deb
+Size: 15016712
+MD5sum: 013bb25c8ad975ee77ec4dcb5f7e21d3
+Section: Themes
+Architecture: iphoneos-arm
+Author: @moondr1 <moondr1@gmail.com>
+Maintainer: @ <moondr1@gmail.com>
+Description: Radiant blue icons
+
 Package: com.ps-vxbakerxv.joypixelsdecalsa
 Name: JoyPixels Decals
 Version: 1.0
@@ -189,6 +201,36 @@ Maintainer: abofaris77 <abl777788@gmail.com>
 Section: Themes
 SileoDepiction: https://repo.twickd.com/package/com.twickd.abofaris77.soso78/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios14.3
+
+Package: com.twickd.devy-design.descent-cc
+Name: Descent CC
+Version: 1.2
+Filename: debs/com.twickd.devy-design.descent-cc_1.2_iphoneos-arm.deb
+Size: 805924
+MD5sum: ad9a9503a66292922ae2bddd0c6d5fa1
+Architecture: iphoneos-arm
+Description: Fresh Redesign icons for your Control Centre.
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Author: Devy_Design <idrainmax@gmail.com>
+Section: Themes
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-cc
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-cc/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
+
+Package: com.twickd.devy-design.descent-ui
+Name: Descent UI
+Version: 1.3
+Filename: debs/com.twickd.devy-design.descent-ui_1.3_iphoneos-arm.deb
+Size: 1306736
+MD5sum: 370287478e3e71bf7b12c4e65f63e100
+Architecture: iphoneos-arm
+Description: Set Mood with Fresh UI.
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Author: Devy_Design <idrainmax@gmail.com>
+Section: Themes
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-ui
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-ui/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
 
 Package: com.twickd.devy-design.liaca-sticker
 Name: Liaca Sticker
