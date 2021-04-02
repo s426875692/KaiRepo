@@ -1,3 +1,19 @@
+Package: com.cemck.killx-pro
+Name: KillX Pro
+Version: 2.1.2
+Filename: debs/com.cemck.killx-pro_2.1.2_iphoneos-arm.deb
+Size: 170912
+MD5sum: 13ceab5d60b649588bb98dffd1eeb6d1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Conflicts: com.cemck.killx
+Installed-Size: 848
+Author: cemck
+Maintainer: cemck
+Description: One swipe to kill them all!
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
+
 Package: com.gamevil.kritikam.ios.apple.global.normal
 Name: [PMT]Kritika: The White Knights - JB MOD
 Depends: mobilesubstrate
