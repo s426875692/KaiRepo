@@ -44,6 +44,22 @@ Homepage: https://platinmods.com
 Version: 4.7.3
 Installed-Size: 592
 
+Package: com.kinken.gpsmastercracked
+Author: Joe Bruce
+Version: 1.9.9
+Filename: debs/com.kinken.gpsmastercracked_1.9.9_iphoneos-arm.deb
+Size: 5154536
+MD5sum: 89911d12a33b1aaf2cb09beec9ea1512
+Section: Tweaks
+Maintainer : kinken
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
+Name: GPS Master Cracked
+Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
+Installed-Size: 12215
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Architecture: iphoneos-arm
+Depiction: 
+
 Package: com.miro.libmiro
 Name: libMiRO
 Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
