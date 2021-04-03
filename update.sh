@@ -44,7 +44,7 @@ if [ -e "$ws/Packages" ]; then
 else
 #
 # other repo should modify this url
-	wget http://35free.net/jackie099
+	wget https://s426875692.github.io/KaiRepo/
 # end of modify Packages' url
 #
 fi
