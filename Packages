@@ -48,8 +48,8 @@ Package: com.kinken.gpsmastercracked
 Author: Joe Bruce
 Version: 1.9.9
 Filename: debs/com.kinken.gpsmastercracked_1.9.9_iphoneos-arm.deb
-Size: 5154534
-MD5sum: 2719cdb714bcffe4851feec878f2438d
+Size: 5154518
+MD5sum: 63471444a311fd8456959acace855843
 Section: Tweaks
 Maintainer : kinken
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
