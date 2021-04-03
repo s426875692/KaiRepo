@@ -1,20 +1,3 @@
-Package: acreson.dw.gpsmaster
-Version: 1.8.1
-Section: Acreson-定位(Localization)
-Filename: debs/acreson.dw.gpsmaster_1.8.1_iphoneos-arm.deb
-Size: 5022804
-MD5sum: b356dbe623b6f22b0d1fb33773f9bb40
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
-Architecture: iphoneos-arm
-Name: GPS Master Crack「GPS定位大师」
-Author: Joe Bruce <joebruce1122@hotmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
-
 Package: com.cemck.killx-pro
 Name: KillX Pro
 Version: 2.1.2
@@ -65,17 +48,17 @@ Package: com.kinken.gpsmastercracked
 Author: Joe Bruce
 Version: 1.9.9
 Filename: debs/com.kinken.gpsmastercracked_1.9.9_iphoneos-arm.deb
-Size: 3653308
-MD5sum: 056db381468894eada94b4784c9625d6
+Size: 5154534
+MD5sum: 2719cdb714bcffe4851feec878f2438d
 Section: Tweaks
 Maintainer : kinken
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
 Name: GPS Master Cracked
-Description : GPS Master Cracked
+Description : GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
 Installed-Size: 12215
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
 Architecture: iphoneos-arm
-Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinken.gpsmastercracked
+Depiction: 
 
 Package: com.miro.libmiro
 Name: libMiRO
