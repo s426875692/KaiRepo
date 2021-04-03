@@ -289,6 +289,21 @@ Section: Tweaks
 Version: 1.2.0
 Installed-Size: 1580
 
+Package: org.mr.shadow
+Name: Shadow
+Author: unalkuru <unalkuru@outlook.com>
+Filename: debs/org.mr.shadow_9.9.51_iphoneos-arm.deb
+Size: 26741856
+MD5sum: acd0644e1da4be1cefb06a5f35ee6bb7
+Description: A simple, modern & beautiful IOS theme.
+Maintainer: MainRepo
+Version: 9.9.51
+Section: Themes
+Depiction: https://mainrepo.org/package/688
+SileoDepiction: https://mainrepo.org/sileo/688
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5d8484a71bdd82001aaafdad/icon/download?size=medium
+
 Package: ru.rj.appstoreplusplus
 Name: AppStore++
 Version: 0.9.14-2
