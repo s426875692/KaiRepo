@@ -63,9 +63,9 @@ Depiction:
 Package: com.miro.libmiro
 Name: libMiRO
 Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
-Filename: debs/com.miro.libmiro_1.0.10_iphoneos-arm.deb
-Size: 256558
-MD5sum: 3954018e97e779fc1d748b7630aa9632
+Filename: debs/com.miro.libmiro_1.0.11_iphoneos-arm.deb
+Size: 256382
+MD5sum: 72614db0e8e4746e795e11bbdeef0aa6
 Architecture: iphoneos-arm
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
 Description: Shared library for my tweaks.
@@ -73,7 +73,7 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Author: MiRO <tweaks_support@miro92.com>
 Section: Development
 Tag: role::developer, compatible_min::ios12, compatible_max::ios14
-Version: 1.0.10
+Version: 1.0.11
 Installed-Size: 1660
 
 Package: com.miro.libmiroprefs
