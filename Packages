@@ -48,9 +48,8 @@ Package: com.kai.icon
 Version: 1.0
 Section: Tweaks
 Filename: debs/com.kai.icon_1.0_iphoneos-arm.deb
-Size: 6128
-MD5sum: 02b259779f68b7a5d6d9fa4fcd552d50
-Essential: yes
+Size: 6114
+MD5sum: 2943bb137918dea666ac1845d7706293
 Maintainer: 村长
 Architecture: iphoneos-arm
 Name: 西瓜图标
