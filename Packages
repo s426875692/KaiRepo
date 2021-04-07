@@ -44,6 +44,18 @@ Homepage: https://platinmods.com
 Version: 4.7.3
 Installed-Size: 592
 
+Package: com.kai.icon
+Version: 1.0
+Section: Tweaks
+Filename: debs/com.kai.icon.deb
+Size: 211514
+MD5sum: 91f0bf4847bffb4a08d7e602e56cfc88
+Essential: yes
+Maintainer: 村长
+Architecture: iphoneos-arm
+Name: 西瓜图标
+Author: 村长
+
 Package: com.kinken.gpsmastercracked
 Author: Joe Bruce
 Version: 1.9.9
