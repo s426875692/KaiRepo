@@ -47,9 +47,9 @@ Installed-Size: 592
 Package: com.kai.icon
 Version: 1.0
 Section: Tweaks
-Filename: debs/com.kai.icon.deb
-Size: 211514
-MD5sum: 91f0bf4847bffb4a08d7e602e56cfc88
+Filename: debs/com.kai.icon_1.0_iphoneos-arm.deb
+Size: 422256
+MD5sum: ba4c8a0439c7adfb3c53f3016cb9d0c4
 Essential: yes
 Maintainer: 村长
 Architecture: iphoneos-arm
