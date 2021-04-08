@@ -44,6 +44,40 @@ Homepage: https://platinmods.com
 Version: 4.7.3
 Installed-Size: 592
 
+Package: com.junesiphone.frontpage
+Name: FrontPage
+Architecture: iphoneos-arm
+Filename: debs/com.junesiphone.frontpage_1.6.6_iphoneos-arm.deb
+Size: 988200
+MD5sum: 668279d3e8f7ba02b4d923e59b802384
+Depends: mobilesubstrate, preferenceloader
+Conflicts:
+Description: Powerful html for the springboard.
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Kai-Tweaks
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/frontpage
+tag: cydia::paid
+Version: 1.6.6
+Installed-Size: 2732
+
+Package: com.junesiphone.lockpluspro
+Name: LockPlus Pro
+Architecture: iphoneos-arm
+Filename: debs/com.junesiphone.lockpluspro_2.1.1_iphoneos-arm.deb
+Size: 22227714
+MD5sum: df915b5d9913d30463dcd23448f6bda3
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2, com.yourepo.appleenterprise.nopassafterrespring
+Description: The ultimate lock screen tweak!
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Kai-Tweaks
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/lockpluspro
+tag: cydia::paid
+Version: 2.1.1
+Installed-Size: 55232
+
 Package: com.kinken.gpsmastercracked
 Author: Joe Bruce
 Version: 1.9.9
