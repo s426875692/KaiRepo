@@ -283,10 +283,10 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.liaca-sticker
 Name: Liaca Sticker
-Version: 1.9.6
-Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.6_iphoneos-arm.deb
-Size: 8890096
-MD5sum: b507c6de54bcedbcc32257ac65fa1064
+Version: 1.9.7
+Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.7_iphoneos-arm.deb
+Size: 8897928
+MD5sum: 11064349966e4f83b0a7ac712d25afef
 Architecture: iphoneos-arm
 Description: Your popular icon designs with a Great stickers style concept.
 Maintainer: Devy_Design <idrainmax@gmail.com>
@@ -294,7 +294,7 @@ Author: Devy_Design <idrainmax@gmail.com>
 Section: Themes
 Depiction: https://repo.twickd.com/package/com.twickd.devy-design.liaca-sticker
 SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.liaca-sticker/native
-Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
 
 Package: com.yourepo.itweakios.carriercrack-global
 Name: CarrierCrack - Global
