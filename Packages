@@ -97,9 +97,9 @@ Depiction:
 Package: com.miro.libmiro
 Name: libMiRO
 Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
-Filename: debs/com.miro.libmiro_1.0.14_iphoneos-arm.deb
-Size: 260602
-MD5sum: c420551a56cc122e85f06064472523c2
+Filename: debs/com.miro.libmiro_1.0.16_iphoneos-arm.deb
+Size: 265360
+MD5sum: 0d5cb463b6518053ff490c4b7da9843a
 Architecture: iphoneos-arm
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
 Description: Shared library for my tweaks.
@@ -107,15 +107,15 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Author: MiRO <tweaks_support@miro92.com>
 Section: Development
 Tag: role::developer, compatible_min::ios12, compatible_max::ios14
-Version: 1.0.14
-Installed-Size: 1676
+Version: 1.0.16
+Installed-Size: 1692
 
 Package: com.miro.libmiroprefs
 Name: libMiROPrefs
 Depends: firmware (>=12.0)
-Filename: debs/com.miro.libmiroprefs_1.0.2_iphoneos-arm.deb
-Size: 563688
-MD5sum: faa9408206ce922dbe3980abdac6cdad
+Filename: debs/com.miro.libmiroprefs_1.0.4_iphoneos-arm.deb
+Size: 563662
+MD5sum: 3828f36fc74c435e3618c6d8d9db9bb3
 Architecture: iphoneos-arm
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
 Description: Shared library for my tweaks' preferences.
@@ -123,15 +123,15 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Author: MiRO <tweaks_support@miro92.com>
 Section: Development
 Tag: role::developer, compatible_min::ios12, compatible_max::ios14
-Version: 1.0.2
+Version: 1.0.4
 Installed-Size: 2536
 
 Package: com.miro.tranzlo
 Name: Tranzlo
-Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.14), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
-Filename: debs/com.miro.tranzlo_3.0.3_iphoneos-arm.deb
-Size: 2055920
-MD5sum: 5100c6413374ee115abd36cfc71e98c8
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: debs/com.miro.tranzlo_3.0.4_iphoneos-arm.deb
+Size: 2299198
+MD5sum: 7af069eeba657117075d699852109361
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.tranzlo
 Description: A life savior translator tweak.
 Architecture: iphoneos-arm
@@ -140,8 +140,8 @@ Author: MiRO <tweaks_support@miro92.com>
 Section: Tweaks
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
-Version: 3.0.3
-Installed-Size: 5332
+Version: 3.0.4
+Installed-Size: 6164
 
 Package: com.moondr1.BluRay
 Name: BluRay
