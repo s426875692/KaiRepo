@@ -279,15 +279,15 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.descent-ui
 Name: Descent UI
-Version: 1.3.1
-Filename: debs/com.twickd.devy-design.descent-ui_1.3.1_iphoneos-arm.deb
-Size: 1306580
-MD5sum: 048d2ea34c3cb63a4a9e921c73cbe2fa
+Version: 1.3.2
+Filename: debs/com.twickd.devy-design.descent-ui_1.3.2_iphoneos-arm.deb
+Size: 1727644
+MD5sum: 4f413f65c2d3c4e3c9461ed534f62ae9
 Architecture: iphoneos-arm
 Description: Set Mood with Fresh UI.
 Maintainer: Devy_Design <idrainmax@gmail.com>
 Author: Devy_Design <idrainmax@gmail.com>
-Section: Themes
+Section: Kai-Themes
 Depiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-ui
 SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-ui/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
