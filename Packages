@@ -78,6 +78,17 @@ tag: cydia::paid
 Version: 2.1.2
 Installed-Size: 55236
 
+Package: com.kai..DarkKinght.theme
+Name: Dark_Kinght
+Version: 2.5
+Filename: debs/com.kai..DarkKinght.theme_2.5_iphoneos-arm.deb
+Size: 18722370
+MD5sum: 4613b26d822a5079e36a7f29d363d4cf
+Section: Kai-Themes
+Maintainer: Kai
+Architecture: iphoneos-arm
+Description: Dark_Knight
+
 Package: com.kai.theme
 Name: Dark_Kinght Theme
 Version: 2.5
@@ -88,6 +99,17 @@ Section: Kai-Themes
 Maintainer: Kai
 Architecture: iphoneos-arm
 Description: Dark_Knight
+
+Package: com.kai.Z1BA.theme
+Name: Z1BA
+Section: Kai-Themes
+Filename: debs/com.kai.Z1BA.theme_1.0_iphoneos-arm.deb
+Size: 9910968
+MD5sum: fb65dae297d5c391369786a10f4acf91
+Version: 1.0
+Maintainer: Kai
+Architecture: iphoneos-arm
+Description: Z1BA
 
 Package: com.kinken.gpsmastercracked
 Author: Joe Bruce
