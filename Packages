@@ -89,6 +89,17 @@ Maintainer: Kai
 Architecture: iphoneos-arm
 Description: Dark_Knight
 
+Package: com.kai.DarkKinght.theme
+Name: Dark_Kinght
+Version: 2.5
+Filename: debs/com.kai.DarkKinght.theme_2.5_iphoneos-arm.deb
+Size: 18722368
+MD5sum: 8414e525a350041dca53b30155f6bce7
+Section: Kai-Themes
+Maintainer: Kai
+Architecture: iphoneos-arm
+Description: Dark_Knight
+
 Package: com.kai.theme
 Name: Dark_Kinght Theme
 Version: 2.5
