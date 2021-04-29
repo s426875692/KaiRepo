@@ -331,15 +331,15 @@ Maintainer: Pwn20wnd <itweakios@yahoo.com>
 
 Package: kai.repoicon
 Version: 1.0
-Section: Tweaks
+Section: Kai-Themes
 Filename: debs/kai.repoicon_1.0_iphoneos-arm.deb
-Size: 5886
-MD5sum: d23cdbebb594aaa964086ce7a76410fb
-Maintainer: 村长
+Size: 1653326
+MD5sum: d155364d1e04c956f2865754b3113f62
+Maintainer: Kai
 Architecture: iphoneos-arm
-Name: 西瓜图标
+Name: Kai
 Description: 西瓜
-Author: 村长
+Author: Kai
 
 Package: kr.xsf1re.flyjbx
 Name: FlyJB X
