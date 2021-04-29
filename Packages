@@ -78,6 +78,17 @@ tag: cydia::paid
 Version: 2.1.2
 Installed-Size: 55236
 
+Package: com.kai.theme
+Name: Dark_Kinght Theme
+Version: 2.5
+Filename: debs/com.kai.theme_2.5_iphoneos-arm.deb
+Size: 18722368
+MD5sum: 01aec21d1dad5ff838f18ebcc3474506
+Section: Kai-Themes
+Maintainer: Kai
+Architecture: iphoneos-arm
+Description: Dark_Knight
+
 Package: com.kinken.gpsmastercracked
 Author: Joe Bruce
 Version: 1.9.9
