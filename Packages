@@ -246,6 +246,22 @@ Depiction: https://repo.twickd.com/package/com.twickd.devy-design.araya-status-b
 SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.araya-status-bar/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
 
+Package: com.twickd.devy-design.clay-cc
+Name: Clay CC
+Version: 1.4.7
+Filename: debs/com.twickd.devy-design.clay-cc_1.4.7_iphoneos-arm.deb
+Size: 1519556
+MD5sum: af14cccf15b10bf585cc446736b35211
+Architecture: iphoneos-arm
+Description: A Complete Premium Set of icons for your Prysm & Apple's Control Center.
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Author: Devy_Design <idrainmax@gmail.com>
+Section: Themes
+Conflicts: com.devy-design.prysmarccc
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.clay-cc
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.clay-cc/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
+
 Package: com.twickd.devy-design.descent-cc
 Name: Descent CC
 Version: 1.2
