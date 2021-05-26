@@ -278,10 +278,10 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.liaca-sticker
 Name: Liaca Sticker
-Version: 1.9.7
-Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.7_iphoneos-arm.deb
-Size: 8897928
-MD5sum: 11064349966e4f83b0a7ac712d25afef
+Version: 1.9.8
+Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.8_iphoneos-arm.deb
+Size: 10492698
+MD5sum: 9a1423bdf7daa063690e208adf8433af
 Architecture: iphoneos-arm
 Description: Your popular icon designs with a Great stickers style concept.
 Maintainer: Devy_Design <idrainmax@gmail.com>
