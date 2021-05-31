@@ -43,6 +43,22 @@ Homepage: https://platinmods.com
 Version: 4.8.3
 Installed-Size: 592
 
+Package: com.junesiphone.creatorapp
+Name: Creator LockPlus
+Architecture: iphoneos-arm
+Filename: debs/com.junesiphone.creatorapp_0.0.1_iphoneos-arm.deb
+Size: 2648474
+MD5sum: bc7b39206abcc63684d2c130bb07ce8e
+Depends: mobilesubstrate, preferenceloader
+Description: LockPlus Creator App
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Kai-Tweaks
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/creatorapp
+tag: cydia::paid
+Version: 0.0.1
+Installed-Size: 3804
+
 Package: com.junesiphone.frontpage
 Name: FrontPage
 Architecture: iphoneos-arm
