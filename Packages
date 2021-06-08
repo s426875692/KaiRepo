@@ -13,6 +13,28 @@ Description: CAGO78 icons
 Depiction: https://repo.packix.com/package/com.7ga79.CAGO78
 SileoDepiction: https://repo.packix.com/package/com.7ga78.CAGO78/native
 
+Package: com.creaturecoding.shuffle
+Name: Shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Filename: debs/com.creaturecoding.shuffle_1.5.5_iphoneos-arm.deb
+Size: 321712
+MD5sum: d9a961168a38eee79a5ee7b339ca7117
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Description: Organize your settings
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Tag: purpose::extension, compatible_min::ios10
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Version: 1.5.5
+Installed-Size: 2292
+
 Package: com.evynw.fontvolte8513
 Name: Volte Rounded_85% (iOS13)
 Version: 1.0
