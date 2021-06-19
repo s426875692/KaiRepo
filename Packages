@@ -286,10 +286,10 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.descent-cc
 Name: Descent CC
-Version: 1.2.1
-Filename: debs/com.twickd.devy-design.descent-cc_1.2.1_iphoneos-arm.deb
-Size: 1535864
-MD5sum: 8085fb2d19af8a63a71112521914d5f5
+Version: 1.2.3
+Filename: debs/com.twickd.devy-design.descent-cc_1.2.3_iphoneos-arm.deb
+Size: 1556586
+MD5sum: 76d4a2b2c9faa7deab6d346d0aa3dc10
 Architecture: iphoneos-arm
 Description: Fresh Redesign icons for your Control Centre.
 Maintainer: Devy_Design <idrainmax@gmail.com>
@@ -316,10 +316,10 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.liaca-sticker
 Name: Liaca Sticker
-Version: 1.9.8
-Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.8_iphoneos-arm.deb
-Size: 10492684
-MD5sum: a31feb8a630bd7d13bdacfdce70bfd69
+Version: 1.9.9
+Filename: debs/com.twickd.devy-design.liaca-sticker_1.9.9_iphoneos-arm.deb
+Size: 10562698
+MD5sum: a65e19d6b65c9131aff16ef2d126dd8f
 Architecture: iphoneos-arm
 Description: Your popular icon designs with a Great stickers style concept.
 Maintainer: Devy_Design <idrainmax@gmail.com>
