@@ -286,18 +286,16 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.descent-cc
 Name: Descent CC
-Version: 1.2.4
-Filename: debs/com.twickd.devy-design.descent-cc_1.2.4_iphoneos-arm.deb
-Size: 1556584
-MD5sum: c669b42a0b45435cfccc915e00f01c0a
+Version: 1.2.5
+Filename: debs/com.twickd.devy-design.descent-cc_1.2.5_iphoneos-arm.deb
+Size: 1556838
+MD5sum: 0518cbc67d54b2e6ae668570cd11a930
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Fresh Redesign icons for your Control Centre.
 Maintainer: Devy_Design <idrainmax@gmail.com>
 Author: Devy_Design <idrainmax@gmail.com>
 Section: Kai-Themes
-Depiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-cc
-SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-cc/native
-Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
 
 Package: com.twickd.devy-design.descent-ui
 Name: Descent UI
