@@ -101,9 +101,9 @@ Installed-Size: 2728
 Package: com.junesiphone.lockpluspro
 Name: LockPlus Pro
 Architecture: iphoneos-arm
-Filename: debs/com.junesiphone.lockpluspro_2.1.9_iphoneos-arm.deb
-Size: 22338310
-MD5sum: 4fa39b53b8f902dca1af85df538d5b4e
+Filename: debs/com.junesiphone.lockpluspro_2.2_iphoneos-arm.deb
+Size: 22340198
+MD5sum: de91638122a0a80c32669730f8480759
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2, com.yourepo.appleenterprise.nopassafterrespring
 Description: The ultimate lock screen tweak!
@@ -112,8 +112,8 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Section: Kai-Tweaks
 Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/lockpluspro
 tag: cydia::paid
-Version: 2.1.9
-Installed-Size: 55616
+Version: 2.2
+Installed-Size: 55644
 
 Package: com.kai.Carbon.theme
 Name: Carbon
@@ -314,10 +314,10 @@ Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_m
 
 Package: com.twickd.devy-design.liaca-sticker
 Name: Liaca Sticker
-Version: 2.1.2
-Filename: debs/com.twickd.devy-design.liaca-sticker_2.1.2_iphoneos-arm.deb
-Size: 10773256
-MD5sum: d63285c733028f127d5b4fca951a5915
+Version: 2.1.3
+Filename: debs/com.twickd.devy-design.liaca-sticker_2.1.3_iphoneos-arm.deb
+Size: 10832214
+MD5sum: f0c4697fd4509ae2974d642314142171
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Your popular icon designs with a Great stickers style concept.
