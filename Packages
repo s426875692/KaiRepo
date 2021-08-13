@@ -50,21 +50,6 @@ Author: Alex (@Alexman1979)
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Section: Fonts (iOS13)
 
-Package: com.gamevil.kritikam.ios.apple.global.normal
-Name: [PMT]Kritika: The White Knights - JB MOD
-Depends: mobilesubstrate
-Filename: debs/_PMT_Kritika_The_White_Knights_v4.9.4_JB-MOD_Platinmods.deb
-Size: 226698
-MD5sum: d17c5c86617402402a129d9bb7f9b3e9
-Architecture: iphoneos-arm
-Description: [PMT] Kritika: The White Knights 4.9.4 - MOD by G-Bo @Platinmods.com
-Maintainer: G-Bo
-Author: G-Bo
-Section: Kai-Tweaks
-Homepage: https://platinmods.com
-Version: 4.9.4
-Installed-Size: 592
-
 Package: com.junesiphone.creatorapp
 Name: Creator LockPlus
 Architecture: iphoneos-arm
