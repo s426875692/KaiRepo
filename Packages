@@ -297,10 +297,10 @@ Section: Kai-Themes
 
 Package: com.twickd.devy-design.liaca-sticker
 Name: Liaca Sticker
-Version: 2.1.4
-Filename: debs/com.twickd.devy-design.liaca-sticker_2.1.4_iphoneos-arm.deb
-Size: 10895194
-MD5sum: 408e3b02e0314929877d26dc7be95415
+Version: 2.1.5
+Filename: debs/com.twickd.devy-design.liaca-sticker_2.1.5_iphoneos-arm.deb
+Size: 10954196
+MD5sum: 4491ad4db7b213bba28410df88fb3821
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Your popular icon designs with a Great stickers style concept.
