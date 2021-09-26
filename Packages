@@ -284,10 +284,10 @@ Section: Kai-Themes
 
 Package: com.twickd.devy-design.descent-ui
 Name: Descent UI
-Version: 1.5.2
-Filename: debs/com.twickd.devy-design.descent-ui_1.5.2_iphoneos-arm.deb
-Size: 2285516
-MD5sum: 2f7a4b11b12be60e76e97ceb3c1b719c
+Version: 1.5.3
+Filename: debs/com.twickd.devy-design.descent-ui_1.5.3_iphoneos-arm.deb
+Size: 2285512
+MD5sum: 40a1213b49dd617d92dbe5969ae3137a
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Set Mood with Fresh UI.
