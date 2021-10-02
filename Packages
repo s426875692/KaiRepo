@@ -335,6 +335,20 @@ Section: Tweaks
 Depends: mobilesubstrate, firmware (>=10.0)
 Maintainer: Pwn20wnd <itweakios@yahoo.com>
 
+Package: Fluoros
+Name: Fluoros
+Version: 1.1
+Filename: debs/fluoros_1.1_iphoneos-arm.deb
+Size: 32744698
+MD5sum: c5d77de98d8a217f8f21f763d0bc171a
+Section: Themes
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Th3_Wiz4rd <ioswilliam25k@gmail.com>
+Maintainer: Th3_Wiz4rd <ioswilliam25k@gmail.com>
+Description: 3 themes with different Colors
+Icon: file:///Library/Themes/Fluoros/icon.png
+
 Package: kai.repoicon
 Version: 1.0
 Section: Kai-Themes
