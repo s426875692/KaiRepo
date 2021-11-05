@@ -86,9 +86,9 @@ Installed-Size: 2728
 Package: com.junesiphone.lockpluspro
 Name: LockPlus Pro
 Architecture: iphoneos-arm
-Filename: debs/com.junesiphone.lockpluspro_2.2.4_iphoneos-arm.deb
-Size: 22477710
-MD5sum: 802e4b939dcfe02aa0d3a5233c4a7640
+Filename: debs/com.junesiphone.lockpluspro_2.2.5_iphoneos-arm.deb
+Size: 22483162
+MD5sum: 70cb5c09b065715b3dd487c6c4d2aa65
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2, com.yourepo.appleenterprise.nopassafterrespring
 Description: The ultimate lock screen tweak!
@@ -97,8 +97,8 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Section: Kai-Tweaks
 Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/lockpluspro
 tag: cydia::paid
-Version: 2.2.4
-Installed-Size: 56144
+Version: 2.2.5
+Installed-Size: 56180
 
 Package: com.kai.Carbon.theme
 Name: Carbon
