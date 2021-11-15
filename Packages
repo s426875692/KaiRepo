@@ -50,6 +50,23 @@ Author: Alex (@Alexman1979)
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Section: Fonts (iOS13)
 
+Package: com.johnzaro.orion
+Section: Tweaks
+Installed-Size: 9344
+Filename: debs/com.johnzaro.orion_1.2_iphoneos-arm.deb
+Size: 3230878
+MD5sum: a4dda00a317c560483c35082fe6f33c1
+Maintainer: John Zarogiannis <johnzrgnns@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2
+Depends: firmware (>= 13.0), firmware (<< 15.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), firmware (<= 13.7) | com.opa334.libundirect (>= 1.1.1), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Description: An All-In-One Tweak For iOS 13.0 - 14.5
+Name: Orion
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Icon: https://chariz.com/cdn/icon/orion/icon@3x.png
+Depiction: https://chariz.com/buy/orion
+Tag: cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.5
+
 Package: com.junesiphone.creatorapp
 Name: Creator LockPlus
 Architecture: iphoneos-arm
