@@ -270,61 +270,6 @@ Section: Themes
 SileoDepiction: https://repo.twickd.com/package/com.twickd.abofaris77.soso78/native
 Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios14.3
 
-Package: com.twickd.devy-design.araya-status-bar
-Name: Araya Status Bar
-Version: 1.0
-Filename: debs/com.twickd.devy-design.araya-status-bar_1.0_iphoneos-arm.deb
-Size: 235480
-MD5sum: 0c8a171eb41dec9116c13ab3a55ec361
-Architecture: iphoneos-arm
-Description: imagination turned into Design.
-Maintainer: Devy_Design <idrainmax@gmail.com>
-Author: Devy_Design <idrainmax@gmail.com>
-Section: Themes
-Conflicts: com.yourepo.martdalazuardi.araya
-Depiction: https://repo.twickd.com/package/com.twickd.devy-design.araya-status-bar
-SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.araya-status-bar/native
-Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
-
-Package: com.twickd.devy-design.descent-cc
-Name: Descent CC
-Version: 1.2.7
-Filename: debs/com.twickd.devy-design.descent-cc_1.2.7_iphoneos-arm.deb
-Size: 1556828
-MD5sum: d13c6f1be2ccb75742d997a195d98642
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Fresh Redesign icons for your Control Centre.
-Maintainer: Devy_Design <idrainmax@gmail.com>
-Author: Devy_Design <idrainmax@gmail.com>
-Section: Kai-Themes
-
-Package: com.twickd.devy-design.descent-ui
-Name: Descent UI
-Version: 1.5.4
-Filename: debs/com.twickd.devy-design.descent-ui_1.5.4_iphoneos-arm.deb
-Size: 2285518
-MD5sum: 90b66300a743a92cb50d02c979692383
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Set Mood with Fresh UI.
-Maintainer: Devy_Design <idrainmax@gmail.com>
-Author: Devy_Design <idrainmax@gmail.com>
-Section: Kai-Themes
-
-Package: com.twickd.devy-design.liaca-sticker
-Name: Liaca Sticker
-Version: 2.1.9
-Filename: debs/com.twickd.devy-design.liaca-sticker_2.1.9_iphoneos-arm.deb
-Size: 11011836
-MD5sum: 071a6b36f89665b3a05bd62d75502a95
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Your popular icon designs with a Great stickers style concept.
-Maintainer: Devy_Design <idrainmax@gmail.com>
-Author: Devy_Design <idrainmax@gmail.com>
-Section: Kai-Themes
-
 Package: com.yourepo.itweakios.carriercrack-global
 Name: CarrierCrack - Global
 Version: 3.1.19
@@ -392,19 +337,4 @@ Author: XsF1re
 Section: Tweaks
 Version: 1.2.1
 Installed-Size: 1580
-
-Package: org.mr.shadow
-Name: Shadow
-Author: unalkuru <unalkuru@outlook.com>
-Filename: debs/org.mr.shadow_9.9.51_iphoneos-arm.deb
-Size: 26741856
-MD5sum: acd0644e1da4be1cefb06a5f35ee6bb7
-Description: A simple, modern & beautiful IOS theme.
-Maintainer: MainRepo
-Version: 9.9.51
-Section: Themes
-Depiction: https://mainrepo.org/package/688
-SileoDepiction: https://mainrepo.org/sileo/688
-Architecture: iphoneos-arm
-Icon: https://repo.packix.com/api/Packages/5d8484a71bdd82001aaafdad/icon/download?size=medium
 
